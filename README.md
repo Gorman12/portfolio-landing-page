@@ -1,10 +1,10 @@
-*portfolio-landing-page*
+#portfolio-landing-page
 
-**by Sean Gorman**
+##by Sean Gorman
 
   This web-page is the first incarnation of my online portfolio. The web-page will give you a bit of an idea of who I am. And will also feature some of my work completed at Epicodus.  
 
-  To view and use webpage just inter into your browser: https://Gorman12.github.io/portfolio-landing-project/
+  *To view and use webpage just inter into your browser:* https://Gorman12.github.io/portfolio-landing-project/
 
   links to my other featured pages can be found in the "My work" section. links are in blue.
 
