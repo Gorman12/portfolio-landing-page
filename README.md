@@ -6,7 +6,7 @@
 
   **To view and use webpage, please click here!** https://Gorman12.github.io/portfolio-landing-page/
 
-  links to my other featured pages can be found in the "My work" section. links are in **blue.**
+  links to my other featured pages can be found in the "My work" section. links are in **Red.**
 
   *MIT License
 
