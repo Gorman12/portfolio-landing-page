@@ -1,0 +1,119 @@
+[33mcommit e907e614c93255c9e8135d048f9bb770166257f6[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Sat Aug 27 14:13:42 2016 -0700
+
+    give correct link color information in README.
+
+[33mcommit 21f19245def96af442c3c001ab130b12908580bd[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Sat Aug 27 13:51:34 2016 -0700
+
+    Center and enlarge main header. also make it more visable.
+
+[33mcommit 42a09e73bd445e92f93fab7015f6e514e4ffb1b2[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Fri Aug 26 13:50:48 2016 -0700
+
+    have background allways fully cover the screen so matter the sacreen size.
+
+[33mcommit 7f613e991223105f1c35bd094b40e04b7bf9d0bd[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Fri Aug 26 13:47:15 2016 -0700
+
+    replace background with a spiral galaxy, non repeating filling the whole page. spiral-galaxy.jpg added to img directory. <p> in the style of fantasy bold.
+
+[33mcommit 96437f74b969617c6b6497d5f3146e29586c8efd[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Fri Aug 26 13:35:27 2016 -0700
+
+    make repeating mandala backround image.
+
+[33mcommit 2e59fc09db6b7485d20e3b33e3e22cf9c95d3da2[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 22:53:21 2016 -0700
+
+    link to webpage will actually work. layout is nicer.
+
+[33mcommit b34333ab61690b007a0aaf5ae592489a4d1211c9[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 22:45:37 2016 -0700
+
+    no longer have a README.me file.
+
+[33mcommit 217decb44729dd559477160c2bdad126c24295c7[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 22:30:32 2016 -0700
+
+    make README.md more readable.
+
+[33mcommit 72a76dac6b8e7e79f4ae60d819786fa174ef5daa[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 22:25:40 2016 -0700
+
+    include completed README.md
+
+[33mcommit 02012cd1a099f2aff67803a84098a7837873cec4[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 21:26:46 2016 -0700
+
+    Have top two pictures and main hedder act as collums in desktop view. Then stack on small screens.
+
+[33mcommit ce9479b4545181bbb37d1b84480299d941efd40a[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 21:02:18 2016 -0700
+
+    Make About me and My project sections act as adjacent collums in desktop view. stacked on small devices.
+
+[33mcommit 39c450e2dcab77038f1bf9981d800ba36a919a58[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 20:30:33 2016 -0700
+
+    Add descriptions to linked projects.
+
+[33mcommit c0e17cddf789d72279729c01b70cba96f391c54a[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 19:54:51 2016 -0700
+
+    Add float project link to My projects area.
+
+[33mcommit dbafb45f5fdf39b00953d1dff1732f1ced760ee8[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 19:46:41 2016 -0700
+
+    Add working link to My first webpage in the My projects section.
+
+[33mcommit aaeea98e04797d777abdbd829cc86f29c4ab0adc[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 19:24:14 2016 -0700
+
+    Add working link to my Wikipedia project under My projects.
+
+[33mcommit 6dd40d150a9cef584db8e3f4fdf64e2fec3ebf7f[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 18:59:44 2016 -0700
+
+    fix spelling and reword phrasing in the About me section.
+
+[33mcommit 2e5fa001b3a613889857c88b3e2e09d834c7e200[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 18:50:05 2016 -0700
+
+    Add four paragraphs of information to the About me section.
+
+[33mcommit 526c7de2abd2b2daaa49cefa60ba9f64ec8c45d0[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 18:17:26 2016 -0700
+
+    place ocean view picture on top of page. index.html contains three headers. img folder contains three more pictures. div class container encompasing entire body.
+
+[33mcommit df4c5eaf2243f0183ac43b297438cefa423248fc[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 17:25:39 2016 -0700
+
+    css sirectory includes file bootstrap.css. index.html links files css/bootstrap.css and css/styles.css. index.html has title 'SG portfolio'. index.html includes opening and closing tags html, head, title, body.
+
+[33mcommit 95da17f32bf848d1e1b71b82f4d9a719e329c045[m
+Author: Sean Gorman <seanedwardgorman@gmail.com>
+Date:   Thu Aug 25 16:38:50 2016 -0700
+
+    Create directory for portfolio-landing-page project. Including files index.html, README and folder img and folder css containing styles.css file
