@@ -15,10 +15,6 @@ h3 {
   text-align: center;
 }
 
-.center {
-  text-align: center;
-}
-
 .col-md-6 {
   background-color: #E5E5E5;
   opacity: .7;
@@ -33,15 +29,16 @@ body {
   background-size: cover;
 }
 
-li {
-  font-size: 20px;
-  color: #67C8FF;
-}
-
 a:link {
   color: #ff0066;
 }
 
-img {
-  float: right;
+.language {
+  font-style: italic;
+  font-family: monospace;
+}
+
+.arial {
+  font-family: arial;
+
 }
